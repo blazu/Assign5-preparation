@@ -19,6 +19,7 @@ public class Calculator {
 			result = a/b;
 		}
 		return result;
+		echo $result;
 	}
 
 }
